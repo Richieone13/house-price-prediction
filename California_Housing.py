@@ -3,8 +3,6 @@
 
 # Modified by Richie Wong
 
-# hello world
-
 # __________________________________________________________________________________________
 # Setup
 # To support both python 2 and python 3
